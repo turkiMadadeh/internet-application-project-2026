@@ -441,3 +441,4 @@ docker compose down -v
 ```
 
 **Result:** أصبح النظام جاهزاً للتشغيل باستخدام Docker، مع مشروع Laravel مستقل، وخدمة Warehouse مستقلة، وقاعدتي بيانات MySQL منفصلتين.
+"# internet-application-project-2026" 
